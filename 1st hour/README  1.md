@@ -13,3 +13,16 @@ the main file
 in the same explane above the tree like a blob but tree is folder bit blob is a file 
 
 
+we make uniqe ID for all blobs with hashing (cha = 40 character)
+
+
+to show the cha we use this => <br>
+
+![alt text](image.png)
+
+in git is work with 3 tree 
+1- working tree (start)<br>
+2- staging tree<br>
+3- repo    tree (final)<br>
+
+
