@@ -20,9 +20,11 @@ to show the cha we use this => <br>
 
 ![alt text](image.png)
 
-in git is work with 3 tree 
+in git is work with 3 tree <br>
 1- working tree (start)<br>
-2- staging tree<br>
+2- staging (index) tree<br>
 3- repo    tree (final)<br>
+
+explane all detiels in next hour
 
 
