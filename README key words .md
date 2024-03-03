@@ -10,4 +10,9 @@ we use "git add ." --> to add all file and changes to staging tree <br>
         =>> use -s to show with size <br>
         =>> use -t to show with type <br>
         =>> use -p to show with content <br>
-        another things in the git help  
+        another things in the git help <br>
+
+we can use "git status -s"==> is more simple<br>
+we use "git commit -m ">message<" " to commit files from staging to git with message
+
+
