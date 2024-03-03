@@ -13,6 +13,14 @@ we use "git add ." --> to add all file and changes to staging tree <br>
         another things in the git help <br>
 
 we can use "git status -s"==> is more simple<br>
-we use "git commit -m ">message<" " to commit files from staging to git with message
+we use "git commit -m ">message<" " to commit files from staging to git with message <br>
 
+how to know the difirace between woring tree and staging tree  <br>
+by "git diff"<br>
+
+and when get diff between staging and repo
+we use "git diff --staged"
+
+to show the diff in one step use ==> <br>
+"git show >first 5 char from cha of commit< " we can get cha form "git log" <br>
 
