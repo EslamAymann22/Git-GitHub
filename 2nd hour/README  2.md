@@ -23,7 +23,7 @@ to save it we must use ( add . ) to put it in staging(index) tree <br>
 untraked => that mean the changes dosn't saved in staging tree <br>
 the staging area is a file contain a sha 
 
-
+2- 
 
 
 

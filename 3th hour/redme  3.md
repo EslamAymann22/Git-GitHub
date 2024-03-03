@@ -20,5 +20,9 @@ and use "git restore --staged >file name <" form repo <br>
 
 when i want back to another commit we use "hit reset head~>number of back <"<br>
 
-then the commit will be on staginf tree but if set it direct to working tree 
-we use  "--hard" 
+then the commit will be on staginf tree but if set it direct to working tree <br>
+we use  "--hard" <br>
+
+to make a specific commit to marked or i mean give it a name <br>
+
+we use "git tag -a > nickname < -m > short message < "<br>
