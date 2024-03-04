@@ -62,5 +62,6 @@ we use  "--hard"
  * to down a specific pranch and !! don't merge it we use "fetch >branch name < "
  * to down a specific pranch and !!  merge it we use "pull >branch name < "
 
- * to make ex (like #define in C++ ) we use "alise >name the ex <="> all things u want put it <"  "       !!!!!!! without any extra spaces 
+ * to make ex (like #define in C++ ) we use "alias >name the ex <="> all things u want put it <"  "       !!!!!!! without any extra spaces 
+
 
