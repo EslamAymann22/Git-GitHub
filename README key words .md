@@ -46,8 +46,8 @@ we use  "--hard"
 * we use "git tag -a > nickname < -m > short message < "<br>
 
 * to show all commits we use "git log --oneline --all"
-     in this feature after reset the head we can show all commits 
-      but if dont use --all we show from head and down
+    <br> in this feature after reset the head we can show all commits 
+     <br> but if dont use --all we show from head and down
 
  * to make a new branch we use "git branch >branch name < "
  * to show all branches in your repo use "git branch"
