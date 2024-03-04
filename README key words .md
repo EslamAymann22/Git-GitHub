@@ -56,4 +56,11 @@ we use  "--hard"
  * to move to another brach we use "git switch >branch name < "
  * to delete specific branch use "git branch -d >branch name < "
  * to merge 2 braches first go to the merged bracnh (that i will add it ) and use 
- *   "git merge >branch name <" but !!!!!  -->  the conflict make some issue so use the       combiler to fix conflict
+ *   "git merge >branch name <" but !!!!!  -->  the conflict make some issue so use the       combiler to fix conflict <br>
+
+ 
+ * to down a specific pranch and !! don't merge it we use "fetch >branch name < "
+ * to down a specific pranch and !!  merge it we use "pull >branch name < "
+
+ * to make ex (like #define in C++ ) we use "alise >name the ex <="> all things u want put it <"  "       !!!!!!! without any extra spaces 
+
