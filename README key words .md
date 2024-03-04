@@ -64,4 +64,6 @@ we use  "--hard"
 
  * to make ex (like #define in C++ ) we use "alias >name the ex <="> all things u want put it <"  "       !!!!!!! without any extra spaces 
 
+* to rename a curent branch we use "git branch -m >new name< " 
+  
 
