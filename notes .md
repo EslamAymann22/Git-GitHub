@@ -46,7 +46,10 @@ we use  "--hard"
 
 * to make a specific commit to marked or i mean give it a name <br>
 
-* we use "git tag -a > nickname < -m > short message < "<br>
+* we use "git tag -a > nickname < -m > short message < " and tag must be uniqe for each commit and we can move wiht it <br>
+ex: we can use "git reset |tag| --hard " to shcange head position
+
+<br>
 
 * to show all commits we use "git log --oneline --all"
     <br> in this feature after reset the head we can show all commits 
