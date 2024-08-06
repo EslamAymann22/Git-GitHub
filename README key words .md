@@ -66,4 +66,7 @@ we use  "--hard"
 
 * to rename a curent branch we use "git branch -m >new name< " 
   
+* to now log for specific member  we use " git log --author="name or gemail" "
+
+* to show the graph and pathes of logs we use "git log --all --graph"
 
