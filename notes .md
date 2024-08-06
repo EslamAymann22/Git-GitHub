@@ -84,3 +84,4 @@ ex: we can use "git reset |tag| --hard " to shcange head position
 get reset (sha of commit) --hard { we use --hard to pull the commit from repo to working tree directed }.
 
 * we use "git branch -vv" to show all branches and his sha
+
