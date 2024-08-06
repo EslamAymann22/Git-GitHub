@@ -73,3 +73,7 @@ we use  "--hard"
 
 * to show the graph and pathes of logs we use "git log --all --graph"
 
+* to edit the message of commit we use "git commit --amend"
+
+* to show the move of head steps we use "git reflog"
+
