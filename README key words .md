@@ -77,3 +77,5 @@ we use  "--hard"
 
 * to show the move of head steps we use "git reflog"
 
+* to move head forword we use that <br>
+get reset (sha of commit) --hard {we use --hard to pull the commit from repo to working tree directed }.
