@@ -25,7 +25,7 @@ we use "git diff --staged"
 "git show >first 5 char from cha of commit< " we can get cha form "git log" <br>
 
 * to get diff between 2 commits we use <br>
-"git diff  "<br>
+"git diff 'sha1'..'sha2' "<br>
 
 * to make a tracked file to untracked we use  <br>
 
